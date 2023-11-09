@@ -74,7 +74,7 @@ public class Kromer extends Item {
 
                 @Override
                 protected void onSelect(int index) {
-                    if (Dungeon.hero.talents.get(index).size() > 7) {
+                    if (Dungeon.hero.talents.get(index).size() > 500) {
                         GLog.n(Messages.get(Kromer.class, "too_many"));
                         return;
                     }
