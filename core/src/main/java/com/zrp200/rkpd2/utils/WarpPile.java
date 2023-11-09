@@ -41,7 +41,7 @@ public class WarpPile {
     //the (1/X) portion of warp that will be used to use an effect
     public static final float EFFECT_BASE = 5;
     //the cap for how much warp you can have
-    public static final float MAX_WARP = 150;
+    public static final float MAX_WARP = 1;
 
     //the (1/X) chance for effect to come out every time the warp decays
     public static int effectTimer(float warpAmount){
