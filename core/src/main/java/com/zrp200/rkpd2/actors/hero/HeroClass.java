@@ -74,6 +74,7 @@ import com.zrp200.rkpd2.items.weapon.missiles.ThrowingKnife;
 import com.zrp200.rkpd2.items.weapon.missiles.ThrowingStone;
 import com.zrp200.rkpd2.messages.Messages;
 import com.zrp200.rkpd2.utils.DungeonSeed;
+import ​com.​zrp200.​rkpd2.​items.quest.Kromer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -174,6 +175,7 @@ public enum HeroClass {
 		new PotionBandolier().collect();
 		new ScrollHolder().collect();
 		new MagicalHolster().collect();
+		new Kromer().quantity(99).collect();
 		Dungeon.LimitedDrops.VELVET_POUCH.drop();
 		Dungeon.LimitedDrops.POTION_BANDOLIER.drop();
 		Dungeon.LimitedDrops.SCROLL_HOLDER.drop();
