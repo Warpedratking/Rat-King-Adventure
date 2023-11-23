@@ -17,3 +17,5 @@ RKPD2 is forked from the [source code of Shattered Pixel Dungeon](https://github
 This will remain in sync with updates coming from RKPD2 and ShatteredPD for the foreseeable future.
 
 Rat King Adventure currently compiles for Android and desktop platforms. It is currently only available from [GitHub](https://github.com/TrashboxBobylev/Rat-King-Adventure), but it may expand to other distribution sites such as Google Play in the future.
+
+all the thanks in the world to ifritdieze for his help 
