@@ -13,7 +13,7 @@ allprojects {
 
     ext {
         appName = 'Rat King Adventures'
-        appPackageName = 'com.zrp200.rkpd2abyssal'
+        appPackageName = 'com.warpedratking.ihopethiswasnotinportant'
 
         appVersionCode = 783
         appVersionName = '1.5.2a'
